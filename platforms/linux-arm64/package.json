@@ -1,0 +1,15 @@
+{
+  "name": "@audiowaveform-installer/linux-arm64",
+  "version": "1.10.1",
+  "scripts": {
+    "postinstall": "chmod u+x audiowaveform"
+  },
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "author": "55nknown",
+  "license": "MIT"
+}
