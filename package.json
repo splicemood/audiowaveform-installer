@@ -1,6 +1,6 @@
 {
   "name": "@splicemood/audiowaveform",
-  "version": "1.0.4",
+  "version": "1.10.1",
   "main": "index.js",
   "types": "types/index.d.ts",
   "repository": "https://github.com/splicemood/audiowaveform-installer",
