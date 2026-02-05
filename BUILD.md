@@ -2,7 +2,7 @@
 
 ## Требования
 
-- **audiowfbuild** — Incus контейнер Ubuntu ARM64 (audiowfbuild.labelstage.com)
+- **audiowfbuild** — Incus контейнер Ubuntu ARM64 (audiowfbuild.example.com)
 - **Mac** — Apple Silicon для darwin-arm64
 - SSH доступ к контейнеру настроен в `~/.ssh/config`
 
