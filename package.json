@@ -11,9 +11,9 @@
     "typescript": "^4.7.4"
   },
   "optionalDependencies": {
-    "@splicemood/linux-x64": "1.10.1",
-    "@splicemood/linux-arm64": "1.10.1",
-    "@splicemood/win32-x64": "1.10.1",
-    "@splicemood/darwin-arm64": "1.10.1"
+    "@splicemood/audiowaveform-linux-x64": "1.10.1",
+    "@splicemood/audiowaveform-linux-arm64": "1.10.1",
+    "@splicemood/audiowaveform-win32-x64": "1.10.1",
+    "@splicemood/audiowaveform-darwin-arm64": "1.10.1"
   }
 }
