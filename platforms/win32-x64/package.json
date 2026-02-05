@@ -1,6 +1,6 @@
 {
-  "name": "@audiowaveform-installer/win32-x64",
-  "version": "1.6.0",
+  "name": "@fatyzzz/win32-x64",
+  "version": "1.10.1",
   "os": [
     "win32"
   ],

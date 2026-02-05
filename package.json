@@ -1,5 +1,5 @@
 {
-  "name": "@audiowaveform-installer/audiowaveform",
+  "name": "@fatyzzz/audiowaveform",
   "version": "1.10.1",
   "main": "index.js",
   "types": "types/index.d.ts",
@@ -11,9 +11,9 @@
     "typescript": "^4.7.4"
   },
   "optionalDependencies": {
-    "@audiowaveform-installer/linux-x64": "1.10.1",
-    "@audiowaveform-installer/linux-arm64": "1.10.1",
-    "@audiowaveform-installer/win32-x64": "1.6.0",
-    "@audiowaveform-installer/darwin-arm64": "1.10.1"
+    "@fatyzzz/linux-x64": "1.10.1",
+    "@fatyzzz/linux-arm64": "1.10.1",
+    "@fatyzzz/win32-x64": "1.10.1",
+    "@fatyzzz/darwin-arm64": "1.10.1"
   }
 }
