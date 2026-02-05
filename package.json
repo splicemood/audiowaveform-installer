@@ -1,9 +1,9 @@
 {
-  "name": "@fatyzzz/audiowaveform",
+  "name": "@splicemood/audiowaveform",
   "version": "1.10.1",
   "main": "index.js",
   "types": "types/index.d.ts",
-  "repository": "https://github.com/tearone/audiowaveform-installer",
+  "repository": "https://github.com/splicemood/audiowaveform-installer",
   "author": "55nknown",
   "license": "MIT",
   "devDependencies": {
@@ -11,9 +11,9 @@
     "typescript": "^4.7.4"
   },
   "optionalDependencies": {
-    "@fatyzzz/linux-x64": "1.10.1",
-    "@fatyzzz/linux-arm64": "1.10.1",
-    "@fatyzzz/win32-x64": "1.10.1",
-    "@fatyzzz/darwin-arm64": "1.10.1"
+    "@splicemood/linux-x64": "1.10.1",
+    "@splicemood/linux-arm64": "1.10.1",
+    "@splicemood/win32-x64": "1.10.1",
+    "@splicemood/darwin-arm64": "1.10.1"
   }
 }

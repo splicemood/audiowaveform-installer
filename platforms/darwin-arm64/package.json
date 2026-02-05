@@ -1,5 +1,5 @@
 {
-  "name": "@fatyzzz/darwin-arm64",
+  "name": "@splicemood/darwin-arm64",
   "version": "1.10.1",
   "scripts": {
     "postinstall": "chmod u+x audiowaveform"
