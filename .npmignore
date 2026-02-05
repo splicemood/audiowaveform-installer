@@ -1,0 +1,11 @@
+platforms/
+.idea
+*.iml
+node_modules
+*.tgz
+.npmrc
+.env
+.git
+.gitignore
+tsconfig.json
+yarn.lock
